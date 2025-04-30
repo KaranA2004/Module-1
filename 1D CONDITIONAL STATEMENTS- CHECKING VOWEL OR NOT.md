@@ -1,4 +1,4 @@
-## Experiment No: 1d – Conditional Statements- Checking Even or Odd
+### Experiment No: 1d – Conditional Statements- Checking Even or Odd
 
 ## AIM  
 To Write a Python program to check whether the given character is a even or odd using if..else statement

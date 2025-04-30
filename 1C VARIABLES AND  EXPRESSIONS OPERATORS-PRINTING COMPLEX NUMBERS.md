@@ -12,7 +12,7 @@ To write a Python program for printing complex numbers.
 6. Terminate the program.
 
 ## PROGRAM
-``
+```
 x = complex(9 + 8j)
 y = complex(10 + 4.5j)
 z = complex(11.2 + 1.2j)

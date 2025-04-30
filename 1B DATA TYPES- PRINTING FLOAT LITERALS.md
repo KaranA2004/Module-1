@@ -6,8 +6,11 @@ To write a Python program to print the float literals from the user.
 ## ALGORITHM  
 
 1.Begin the program.
+
 2.Prompt the user to enter float literals (e.g., using input() function) and store the input in variables.
+
 3.Use the print() function to display the float literals entered by the user.
+
 4.Terminate the program.
 
 ## PROGRAM
